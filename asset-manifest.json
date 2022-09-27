@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sathwik17.github.io/csb-qslikq/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://sathwik17.github.io/csb-qslikq/static/js/main.82532b3b.chunk.js",
+    "main.js.map": "https://sathwik17.github.io/csb-qslikq/static/js/main.82532b3b.chunk.js.map",
+    "runtime-main.js": "https://sathwik17.github.io/csb-qslikq/static/js/runtime-main.7abbc2b9.js",
+    "runtime-main.js.map": "https://sathwik17.github.io/csb-qslikq/static/js/runtime-main.7abbc2b9.js.map",
+    "static/js/2.e9b86e63.chunk.js": "https://sathwik17.github.io/csb-qslikq/static/js/2.e9b86e63.chunk.js",
+    "static/js/2.e9b86e63.chunk.js.map": "https://sathwik17.github.io/csb-qslikq/static/js/2.e9b86e63.chunk.js.map",
+    "index.html": "https://sathwik17.github.io/csb-qslikq/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://sathwik17.github.io/csb-qslikq/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.e9b86e63.chunk.js.LICENSE.txt": "https://sathwik17.github.io/csb-qslikq/static/js/2.e9b86e63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7abbc2b9.js",
+    "static/js/2.e9b86e63.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.82532b3b.chunk.js"
+  ]
+}
